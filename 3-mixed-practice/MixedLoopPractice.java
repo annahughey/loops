@@ -13,46 +13,45 @@
  *
  *  4) twentyToZeroW   - uses a while loop to print the set {20, 18, 16, ... , 0}.
  *
- *  6) countMtoN       - uses a while loop to print the set {m, m+1, m+2, ... , n}.
+ *  5) countMtoN       - uses a while loop to print the set {m, m+1, m+2, ... , n}.
  *
- *  7) sumN            - uses a while loop to find and return the sum of the first 
+ *  6) sumN            - uses a while loop to find and return the sum of the first 
  *                       n integers. 
  *                       
- *  8) perfectSquaresF - uses a for loop to print the first n perfect squares.
+ *  7) perfectSquaresF - uses a for loop to print the first n perfect squares.
  *
- *  9) sumSquaresW     - uses a while loop find and return the sum of the first n 
+ *  8) sumSquaresW     - uses a while loop find and return the sum of the first n 
  *                       perfect squares.
  *
- * 10) iLoveJava       - uses a while loop to print the sentence "I love java." n
+ *  9) iLoveJava       - uses a while loop to print the sentence "I love java." n
  *                       times.
  *
- * 11) divBy2and9      - uses a for loop to count from 1 to 100 by ones, but only
+ * 10) divBy2and9      - uses a for loop to count from 1 to 100 by ones, but only
  *                       values that are evenly divisible by 2 and 9 are printed.
  *                       (you'll need to use an if statement.)
  *
- * 12) divBy3and8      - uses a while loop to count from 1 to 100 by ones, but only
+ * 11) divBy3and8      - uses a while loop to count from 1 to 100 by ones, but only
  *                       values that are evenly divisible by 3 and 8 are printed.
  *                       (you'll need to use an if statement.)
  *
- * 13) divBy5or7Sum    - uses a while loop to find and return the sum of all values in 
+ * 12) divBy5or7Sum    - uses a while loop to find and return the sum of all values in 
  *                       the set {1, 2, 3, ... , 10000} that are divisible by 5 or 7.
  *
- * 14) bizzBuzz        - uses a while loop to count from 1 to n by ones. However,
+ * 13) fizzBuzz        - uses a while loop to count from 1 to n by ones. However,
  *                       if a number is divisible by 3, the word "bizz" should be 
  *                       printed, and if the number is divisible by 5, "buzz" should
  *                       be printed. Sample output:
  *
- *                       1, 2, Bizz, 4, Buzz, Bizz, 7, 8, Bizz, Buzz, 11, Bizz, 13, 14, 
- *                       Bizz Buzz, 16, 17, Bizz, 19, Buzz, Bizz, 22, 23, Bizz, ...
+ *                       1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, 
+ *                       Fizz Buzz, 16, 17, Fizz, 19, Buzz, Fizz, 22, 23, Fizz, ...
  *                       
- * 15) sumDigits       - uses a loop to find and return the sum of the digits in an int.
+ * 14) sumDigits       - finds and return the sum of the digits in an int.
  *
- * 16) countEvens      - uses a loop to count the number of even digits in an int.
+ * 15) countEvens      - finds and returns the number of even digits in an int.
  *
- * 17) hasDigit        - uses the appropriate type of loop to return true if a number n
- *                       contains the digit d and false otherwise.
+ * 16) hasDigit        - return true if a number n contains the digit d and false otherwise.
  *
- * 18) moreEvens       - returns true if a number n has more even digits than odd digits
+ * 17) hasMoreEvens    - returns true if a number n has more even digits than odd digits
  *                       and false otherwise.
  *
  *  ------------------------------------------------------------------------------
