@@ -16,7 +16,7 @@
  *  5) countMtoN       - uses a while loop to print the set {m, m+1, m+2, ... , n}.
  *
  *  6) sumN            - uses a while loop to find and return the sum of the first 
- *                       n integers. 
+ *                       n positive integers. 
  *                       
  *  7) perfectSquaresF - uses a for loop to print the first n perfect squares.
  *
